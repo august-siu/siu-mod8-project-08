@@ -1,0 +1,5 @@
+Source	Used For/Reason
+1. https://spinningup.openai.com/en/latest/spinningup/rl_intro.html	To learn more about Q learning fundamentals
+2. https://davidstarsilver.wordpress.com/teaching/	Week 2 slides/code explain deterministic Q-learning, α=1, γ<1 updates
+3. http://incompleteideas.net/book/RLbook2020.pdf	Chapter 6- Q learning
+4. https://gymnasium.farama.org/tutorials/training_agents/frozenlake_q_learning/#sphx-glr-tutorials-training-agents-frozenlake-q-learning-py	Learning more about Q Learning Code
